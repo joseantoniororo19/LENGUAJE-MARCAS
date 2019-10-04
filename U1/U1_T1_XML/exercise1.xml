@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libro>
+       <titulo>relatos adolescentes</titulo>
+       <editorial>santillana</editorial>
+       <npaginas>148</npaginas>
+       <autor>pablo delicado</autor>       
+       <capitulos>
+            <capitulo>
+                <titulo>colegio</titulo>
+                <paginainicio>4</paginainicio>
+                <paginafinal>28</paginafinal>
+            </capitulo>
+            <capitulo>
+                <titulo>secundaria</titulo>
+                <paginainicio>29</paginainicio>
+                <paginafinal>58</paginafinal>
+            </capitulo>
+            <capitulo>
+                <titulo>adolescencia</titulo>
+                <paginainicio>59</paginainicio>
+                <paginafinal>76</paginafinal>
+            </capitulo>
+            <capitulo>
+                <titulo>bachillerato</titulo>
+                <paginainicio>77</paginainicio>
+                <paginafinal>94</paginafinal>
+            </capitulo>
+            <capitulo>
+                <titulo>el mejor verano</titulo>
+                <paginainicio>95</paginainicio>
+                <paginafinal>122</paginafinal>
+            </capitulo>
+            <capitulo>
+                <titulo>nuevas amistades</titulo>
+                <paginainicio>123</paginainicio>
+                <paginafinal>148</paginafinal>
+            </capitulo>
+       </capitulos>     
+</libro>       

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tiendas>
+    <tienda>
+       <nombre>Zara</nombre>
+       <nparcelas>ocupa 2 parcelas</nparcelas>
+       <metroscuadrados>120 metros cuadrados</metroscuadrados>
+       <encargado>
+           <nombre>Antonio</nombre>
+           <apellidos>RomeroJimenez</apellidos>
+           <tlfcontact>934526172</tlfcontact>
+           <NSS>536274384 0</NSS>
+       </encargado>
+    </tienda>
+    <tienda>
+       <nombre>Primark</nombre>
+       <nparcelas> ocupa 5 parcelas</nparcelas>
+       <metroscuadrados>250 metros cuadrados</metroscuadrados>
+       <encargado>
+           <nombre>Almudena</nombre>
+           <apellidos>RodríguezFreire</apellidos>
+           <tlfcontact>945637231</tlfcontact>
+           <NSS>647536724 1</NSS>
+       </encargado>   
+    </tienda>
+    <tienda>
+       <nombre>Adidas</nombre>
+       <nparcelas>ocupa 2 parcelas</nparcelas>
+       <metroscuadrados>115 metros cuadrados</metroscuadrados>
+       <encargado>
+           <nombre>Carlos</nombre>
+           <apellidos>MuñozJimenez</apellidos>
+           <tlfcontact>945769271</tlfcontact>
+           <NSS>745635284 4</NSS>
+       </encargado>
+    </tienda>
+    <tienda>
+        <nombre>Decimas</nombre>
+        <nparcelas>ocupa 2 parcelas</nparcelas>
+        <metroscuadrados>125 metros cuadrados</metroscuadrados>
+        <encargado>
+           <nombre>Juan</nombre>
+           <apellidos>GardenJimenez</apellidos>
+           <tlfcontact>956432524</tlfcontact>
+           <NSS>857645354 2</NSS>
+        </encargado>
+    </tienda>
+    <tienda>
+        <nombre>Zahara</nombre>
+        <nparcelas>ocupa 1 parcela</nparcelas>
+        <metroscuadrados>120 metros cuadrados</metroscuadrados>
+        <encargado>
+           <nombre>Carolina</nombre>
+           <apellidos>GaldeanoRomero</apellidos>
+           <tlfcontact>956473421</tlfcontact>
+           <NSS>645354243 5</NSS>
+        </encargado>
+    </tienda>
+     <tienda>
+        <nombre>Kiabi</nombre>
+        <nparcelas>ocupa 1 parcela</nparcelas>
+        <metroscuadrados>118 metros cuadrados</metroscuadrados>
+        <encargado>
+           <nombre>Reyes</nombre>
+           <apellidos>RuizRomero</apellidos>
+           <tlfcontact>95647536</tlfcontact>
+           <NSS>645354215 9</NSS>
+        </encargado>
+    </tienda>
+     <tienda>
+        <nombre>Nike</nombre>
+        <nparcelas>ocupa 1 parcela</nparcelas>
+        <metroscuadrados>115 metros cuadrados</metroscuadrados>
+        <encargado>
+           <nombre>Raúl</nombre>
+           <apellidos>PortilloRomero</apellidos>
+           <tlfcontact>956373421</tlfcontact>
+           <NSS>645968243 2</NSS>
+        </encargado>
+    </tienda>
+     <tienda>
+        <nombre>HYM</nombre>
+        <nparcelas>ocupa 1 parcela</nparcelas>
+        <metroscuadrados>102 metros cuadrados</metroscuadrados>
+        <encargado>
+           <nombre>Margarita</nombre>
+           <apellidos>GaldeanoRodríguez</apellidos>
+           <tlfcontact>956473541</tlfcontact>
+           <NSS>645359054 5</NSS>
+        </encargado>
+    </tienda>
+     <tienda>
+        <nombre>El Cortes Ingles</nombre>
+        <nparcelas>ocupa 8 parcela</nparcelas>
+        <metroscuadrados>420 metros cuadrados</metroscuadrados>
+        <encargado>
+           <nombre>Fernando</nombre>
+           <apellidos>GómezRuiz</apellidos>
+           <tlfcontact>956846421</tlfcontact>
+           <NSS>645245243 4</NSS>
+        </encargado>
+    </tienda>
+     <tienda>
+        <nombre>Mustant</nombre>
+        <nparcelas>ocupa 1 parcela</nparcelas>
+        <metroscuadrados>111 metros cuadrados</metroscuadrados>
+        <encargado>
+           <nombre>Rebeca</nombre>
+           <apellidos>RuizGordillo</apellidos>
+           <tlfcontact>956645421</tlfcontact>
+           <NSS>645352643 1</NSS>
+        </encargado>
+    </tienda>
+
+</tiendas>
