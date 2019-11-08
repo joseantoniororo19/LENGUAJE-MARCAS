@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+
+        td,
+        th {
+            border: 1px solid black;
+            width: 150px;
+            height: 150px;
+        }
+    </style>
+</head>
+
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>Text</th>
+                <th>Text</th>
+                <th colspan="2">Text</th>
+                <th colspan="2">Text</th>
+            </tr>
+            <tr>
+                <td style="text-align:left;" valign="top">text</td>
+                <td style="text-align: left;" valign="buttom">text</td>
+                <td colspan="2" style="text-align: right;" valign="button">text</td>
+                <td style="text-align: center;">text</td>
+                <td style="text-align: center;">text</td>
+            </tr>
+            <tr>
+                <td rowspan="2" style="text-align: center;">text</td>
+                <td rowspan="2" style="text-align:left;" valign="top">text</td>
+                <td style="text-align: left;" valign="top">text</td>
+                <td style="text-align: left;" valign="top">text</td> 
+                <td style="text-align: center;">text</td>
+                <td style="text-align: right;" valign="center">text</td>     
+            </tr>
+            <tr>
+                <td rowspan="2" style="text-align: center;">text</td>
+                <td rowspan="2" style="text-align: center;">text</td>
+                <td style="text-align: center;">text</td>
+                <td style="text-align: center;">text</td>
+            </tr>
+            <tr>
+                <td style="text-align:center;" valign="button">text</td>
+                <td style="text-align: left;" valign="center">text</td>
+                <td style="text-align: left;" valign="top">text</td>
+                <td style="text-align: left;" valign="top">text</td>
+            </tr>
+        </thead>
+    </table>
+</body>
+
+</html>
