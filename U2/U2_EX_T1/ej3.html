@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>ej3</title>
+</head>
+
+<body>
+    <form>
+        <legend style="background-color:teal;" >IES Alixar Login</legend>
+        <p>
+            <label for="nombre">Usuario:</label>
+            <input type="text" name="nombre" required />
+        </p>
+        <p>
+            <label for="pass">Password:</label>
+            <input type="password" name="password" required />
+        </p>
+        <p>
+            <label for="date">Fecha de Nacimiento:</label>
+            <input type="date" name="date" />
+        </p>
+        <p>
+            <label for="nombre">Curso de Matriculación</label>
+            <input list="Titulo">
+            <datalist id="Titulo">
+                <option value="1ºBachillerato">
+                <option value="2ºBachillerato">
+                <option value="Primero DAW1">
+                <option value="Segundo DAW2">
+            </datalist>
+        </p>
+        <p>
+            <label for="nombre">Role
+                <input type="radio" name="genero" checked />Estudiante<br />
+                <input type="radio" name="genero" checked />Profesor<br />
+                <input type="radio" name="genero" checked />Apoyo<br />
+                <input type="radio" name="genero" checked />Staff<br />
+            </label>
+        </p>
+        <p>
+            <label for="nombre">Forma de Comunicación
+                <input type="checkbox" name="genero" checked />Mail<br />
+                <input type="checkbox" name="genero" checked />Teléfono<br />
+                <input type="checkbox" name="genero" checked />Correo ordinario<br />
+            </label>
+        </p>
+        <p>
+            <input type="submit" value="Enviar" />
+            <input type="submit" value="Borrar" />
+        </p>
+    </form>
+</body>
+
+</html>
