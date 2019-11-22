@@ -1,0 +1,25 @@
+/*Dar un color a las filas pares y otro color distinto a las filas impares*/
+tr:nth-child(even) {
+    background: cadetblue;
+}
+
+tr:nth-child(odd) {
+    background: darkslategray;
+}
+
+/*Anchura de los bordes inferiores de cada fila*/
+td{
+    border-bottom: 5px solid black;
+}
+
+/*Añadir cabecera*/
+th {
+    color: rgb(252, 252, 252);
+    background: black;
+}
+
+/*Cuando pase el ratón cambia color de fondo y letra*/
+tr:hover {
+    background: skyblue;
+    color: red;
+}

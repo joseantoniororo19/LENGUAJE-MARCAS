@@ -1,0 +1,11 @@
+th {
+    text-align: center;
+    letter-spacing: 1.6em;
+    word-spacing: 2em;
+    size: 24px;
+    font-family: Georgia;
+    color: blue;
+    background: lightgray;
+    font-weight: bold;
+}
+
