@@ -1,0 +1,109 @@
+*{
+    box-sizing: border-box;
+}
+
+#title{
+    color: black;
+    float: left;
+    width: 12%;
+
+}
+
+#pount{
+    color: green;
+}
+
+#slogan{
+    width: 40%;
+}
+
+.contact{
+    float: right;
+    display: inline-flex;
+}
+
+.container{
+    width: 80%;
+}
+
+.menu{
+    clear: left;
+    display: inline-flex;
+    padding: 10px;
+    background-color: black;
+    width: 100%;
+}
+
+.nav-item{
+    float: left;
+    color: rgb(255, 255, 255);
+}
+
+#img4{
+    width: 100%;
+    z-index: 2;
+    position: sticky;
+}
+
+.text1{
+    z-index: 4;
+    background-color: rgb(167, 162, 162);
+    width: 48%;
+    text-align: justify;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 1px;
+    margin-right: 0px;
+    color: rgb(255, 255, 255);
+}
+
+#right{
+    float: right;
+    margin-right: 5%;
+    margin-left: 2px;
+    width: 10px;
+    background-color: rgb(167, 162, 162);
+}
+
+#left{
+    float: right;
+    background-color: rgb(167, 162, 162);
+}
+
+#img5{
+    float: left;
+}
+
+h2{
+    margin-top: 5px;
+}
+
+.text2{
+    float: left;
+    width: 25%;
+    margin-left: 1%;
+    text-align: justify;
+}
+
+#img6{
+    float: left;
+}
+
+.text3{
+    float: left;
+    width: 25%;
+    margin-left: 1%;
+    text-align: justify;
+}
+
+#img7{
+    float: left;
+}
+
+.text4{
+    float: left;
+    width: 25%;
+    margin-left: 1%;
+    text-align: justify;
+}
