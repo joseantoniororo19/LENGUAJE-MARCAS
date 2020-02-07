@@ -1,0 +1,232 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(46, 105, 139);
+}
+
+.container{
+    width: 60%;
+    margin: 0px auto;
+    display: grid;
+    margin: 0px auto;
+    grid-template-columns: 33.3% 33.3% 33.3%;
+    grid-template-rows: 100px 240px 65px 240px 135px;
+    background-color: rgb(46, 105, 139);
+}
+
+.head{
+    grid-column-start: 1;
+    grid-column-end: 4;
+    display: flex;
+    justify-content: space-between;
+}
+
+#h1{
+    color: rgb(114, 182, 202);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+input{
+    border-radius: 5%;
+    width: 250px;
+    margin-top: 17%;
+}
+
+.indice{
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+
+#indice{
+    display: flex;
+    background-color: rgb(83, 158, 187);
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    height: 15%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+    
+}
+
+.nav-item{
+    margin-right: 50px;
+    margin-left: 40px;
+    margin-top: 0.7%;
+}
+
+.block1{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 100%;
+}
+
+#foto1{
+    margin-right: 50px;
+    margin-left: 40px;
+}
+
+#foto2{
+    margin-right: 50px;
+    margin-left: 40px;
+}
+
+#foto3{
+    margin-right: 50px;
+    margin-left: 40px;
+}
+
+#foto4{
+    margin-right: 50px;
+    margin-left: 40px;
+}
+
+#texto1{
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(56, 157, 204);
+}
+
+#texto2{
+    font-size: 25px;
+    color: rgb(56, 157, 204);
+}
+
+.block3{
+    grid-column-start: 1;
+    grid-column-end: 4;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3%;
+}
+
+.buttom{
+    margin-top: 2%;
+    font-size: 25px;
+    background-color: rgb(71, 145, 179);
+    height: 35px;
+    width: 300px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.block{
+    display: flex;
+    justify-content: space-between;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    margin-top: 3%;
+}
+
+h2{
+    color: rgb(104, 177, 211);
+    font-style: italic;
+    font-size: 25px;
+}
+.contenido1{
+    width: 30%;
+    background-color: rgb(87, 123, 139);
+    height: 210px;
+    margin-top: 0px auto;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+#rocket{
+    background-color: rgb(111, 157, 179);
+    width: 100%;
+    height: 20%;
+    margin-top: 0px;
+    padding-top: 3%;
+    padding-left: 5%;
+    font-style: italic;
+    color: rgb(206, 229, 236);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.contenido2{
+    width: 25%;
+    background-color: rgb(87, 123, 139);
+    height: 210px;
+    margin-top: 0px auto;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+#compra{
+    background-color: rgb(111, 157, 179);
+    width: 100%;
+    height: 20%;
+    margin-top: 0px;
+    padding-top: 3%;
+    padding-left: 5%;
+    font-style: italic;
+    color: rgb(206, 229, 236);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.fotos2{
+    padding-left: 10%;
+}
+
+.contenido3{
+    width: 30%;
+    background-color: rgb(87, 123, 139);
+    height: 210px;
+    margin-top: 0px auto;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+#carta{
+    background-color: rgb(111, 157, 179);
+    width: 100%;
+    height: 20%;
+    margin-top: 0px;
+    padding-top: 3%;
+    padding-left: 5%;
+    font-style: italic;
+    color: rgb(206, 229, 236);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+#text1{
+    text-align: justify;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.block2{
+    display: flex;
+    justify-content: space-between;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    margin-top: 3%;
+}
+
+h3{
+    width: 90%;
+}
+
+#imagen1{
+    width: 10%;
+}
